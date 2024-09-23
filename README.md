@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, sou Lucas Aleluia 👋
 
-<!--
-**lucasaleluia/lucasaleluia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Sou um desenvolvedor em transição de carreira, atualmente estudando JavaScript, mas aberto a aprender novas linguagens de programação. Busco minha primeira oportunidade na área, onde posso aplicar a disciplina e o comprometimento adquiridos na minha carreira militar.
 
-Here are some ideas to get you started:
+### Habilidades
+- JavaScript
+- HTML & CSS
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou Aprendendo
+- JavaScript
+
+### Como Entrar em Contato
+- E-mail: lucasaleluianunes@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucas-aleluia-017bb72b1/
+
+### Vamos Conectar!
+Estou sempre aberto a colaborações e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato!
